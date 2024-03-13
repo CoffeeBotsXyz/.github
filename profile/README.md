@@ -1,32 +1,32 @@
 # CoffeeBots ☕
 
-Welcome to CoffeeBots organization! We are a dynamic team of developers passionate about creating innovative Discord bots using TypeScript and JavaScript. Our mission is to deliver high-quality, efficient, and user-friendly bots to enhance the Discord experience for communities everywhere.
+CoffeeBots is a Discord bot company specializing in the development and sale of bots at affordable prices. Founded by Ducko and arkseek, our team is dedicated to creating high-quality bots that enhance the Discord experience for users across various communities.
 
-## Team Members
-- DuckoDas ([GitHub](https://github.com/DuckoDas))
-- arkseek ([GitHub](https://github.com/arkseek))
+## Our Mission 🚀
 
-## Projects
-Here are some of the projects we've been working on:
+At CoffeeBots, our mission is to provide Discord users with innovative and reliable bots that cater to their specific needs. We strive to offer affordable solutions without compromising on quality, ensuring that our customers receive value for their investment.
 
-1. **Good Vibes Only**
-   - Description: Brief description of BotName1.
-   - Repository: [Good Vibes Only](https://github.com/gvobot/discord)
+## Meet the Team 👨‍💻
 
-## Contribution Guidelines
-We welcome contributions from the community to help improve our projects. If you're interested in contributing, please follow these guidelines:
+### DuckoDas 🦆
 
-- Fork the repository.
-- Make your changes in a feature branch.
-- Ensure your code follows the project's coding standards and guidelines.
-- Test your changes thoroughly.
-- Submit a pull request, detailing the changes you've made.
+DuckoDas is a passionate developer with a knack for creating efficient and user-friendly bots. With a background in programming and a deep understanding of Discord's API, DuckoDas is committed to delivering top-notch solutions that exceed expectations.
 
-## Contact Us
-If you have any questions, suggestions, or just want to chat, feel free to reach out to us:
+### arkseek 🌟
 
-- DuckoDas: [GitHub](https://github.com/DuckoDas)
+...
+
+## Our Bots 🤖
+
+Check out some of the bots developed by CoffeeBots:
+
+1. **Good Vibes Only**: GVO is an open-source and versatile Discord bot designed to enhance your server with a variety of features, including customization, updates, moderation, server security, utility, and more.
+
+## Get in Touch 💬
+
+Have questions or interested in purchasing one of our bots? Feel free to reach out to us on Discord:
+
+- Ducko: [GitHub](https://github.com/duckodas)
 - arkseek: [GitHub](https://github.com/arkseek)
 
-## License
-All projects under CoffeeBots organization are licensed under the [GPL-3.0 License](LICENSE). Feel free to use, modify, and distribute our code as long as you include the appropriate license and give credit to the CoffeeBots team.
+We're always happy to chat and discuss how CoffeeBots can enhance your Discord server!
