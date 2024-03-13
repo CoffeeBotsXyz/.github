@@ -1,12 +1,32 @@
-## Hi there 👋
+# CoffeeBots ☕
 
-<!--
+Welcome to CoffeeBots organization! We are a dynamic team of developers passionate about creating innovative Discord bots using TypeScript and JavaScript. Our mission is to deliver high-quality, efficient, and user-friendly bots to enhance the Discord experience for communities everywhere.
 
-**Here are some ideas to get you started:**
+## Team Members
+- DuckoDas ([GitHub](https://github.com/DuckoDas))
+- arkseek ([GitHub](https://github.com/arkseek))
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projects
+Here are some of the projects we've been working on:
+
+1. **Good Vibes Only**
+   - Description: Brief description of BotName1.
+   - Repository: [Good Vibes Only](https://github.com/gvobot/discord)
+
+## Contribution Guidelines
+We welcome contributions from the community to help improve our projects. If you're interested in contributing, please follow these guidelines:
+
+- Fork the repository.
+- Make your changes in a feature branch.
+- Ensure your code follows the project's coding standards and guidelines.
+- Test your changes thoroughly.
+- Submit a pull request, detailing the changes you've made.
+
+## Contact Us
+If you have any questions, suggestions, or just want to chat, feel free to reach out to us:
+
+- DuckoDas: [GitHub](https://github.com/DuckoDas)
+- arkseek: [GitHub](https://github.com/arkseek)
+
+## License
+All projects under CoffeeBots organization are licensed under the [GPL-3.0 License](LICENSE). Feel free to use, modify, and distribute our code as long as you include the appropriate license and give credit to the CoffeeBots team.
