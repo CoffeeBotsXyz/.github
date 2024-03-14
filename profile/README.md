@@ -29,4 +29,4 @@ Have questions or interested in purchasing one of our bots? Feel free to reach o
 - Ducko: [GitHub](https://github.com/duckodas)
 - arkseek: [GitHub](https://github.com/arkseek)
 
-We're always happy to chat and discuss how CoffeeBots can enhance your Discord server!
+We're always happy to chat and discuss how **CoffeeBots** can enhance your Discord server!
