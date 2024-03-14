@@ -1,16 +1,16 @@
 # CoffeeBots ☕
 
-CoffeeBots is a Discord bot company specializing in the development and sale of bots at affordable prices. Founded by Ducko and arkseek, our team is dedicated to creating high-quality bots that enhance the Discord experience for users across various communities.
+**CoffeeBots** is a Discord bot company specializing in the development and sale of bots at affordable prices. Founded by **Ducko** and **arkseek**, our team is dedicated to creating high-quality bots that enhance the Discord experience for users across various communities.
 
 ## Our Mission 🚀
 
-At CoffeeBots, our mission is to provide Discord users with innovative and reliable bots that cater to their specific needs. We strive to offer affordable solutions without compromising on quality, ensuring that our customers receive value for their investment.
+At **CoffeeBots**, our mission is to provide Discord users with innovative and reliable bots that cater to their specific needs. We strive to offer affordable solutions without compromising on quality, ensuring that our customers receive value for their investment.
 
 ## Meet the Team 👨‍💻
 
 ### DuckoDas 🦆
 
-DuckoDas is a passionate developer with a knack for creating efficient and user-friendly bots. With a background in programming and a deep understanding of Discord's API, DuckoDas is committed to delivering top-notch solutions that exceed expectations.
+**DuckoDas** is a passionate developer with a knack for creating efficient and user-friendly bots. With a background in programming and a deep understanding of Discord's API, DuckoDas is committed to delivering top-notch solutions that exceed expectations.
 
 ### arkseek 🌟
 
