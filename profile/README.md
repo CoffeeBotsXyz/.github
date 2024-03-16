@@ -14,7 +14,7 @@ At **CoffeeBots**, our mission is to provide Discord users with innovative and r
 
 ### arkseek 🌟
 
-...
+**arkseek** is a beginner developer in the web space! He is a programmer of which does works on the web and is starting to learn little by little on how everything works together, he is commited to become one of the best teenage web developers out there. 
 
 ## Our Bots 🤖
 
