@@ -21,6 +21,7 @@ At **CoffeeBots**, our mission is to provide Discord users with innovative and r
 Check out some of the bots developed by CoffeeBots:
 
 1. **Good Vibes Only**: GVO is an open-source and versatile Discord bot designed to enhance your server with a variety of features, including customization, updates, moderation, server security, utility, and more.
+2. **FiveAlert.dk**: SOON
 
 ## Get in Touch 💬
 
