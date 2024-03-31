@@ -16,6 +16,10 @@ At **CoffeeBots**, our mission is to provide Discord users with innovative and r
 
 **arkseek** is a beginner developer in the web space! He is a programmer of which does works on the web and is starting to learn little by little on how everything works together, he is commited to become one of the best teenage web developers out there. 
 
+### The Gamer :video_game: 
+
+**The Gamer** is a pasionate developer with a passion for lua, and the FiveM world. With a background of coding bots, and working with FiveM scripts, he's build a pretty big knowledge, about the coding world, and it's doos and don'ts
+
 ## Our Bots 🤖
 
 Check out some of the bots developed by CoffeeBots:
