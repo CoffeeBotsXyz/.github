@@ -1,37 +1,32 @@
-# CoffeeBots ☕
-
-**CoffeeBots** is a Discord bot company specializing in the development and sale of bots at affordable prices. Founded by **Ducko** and **arkseek**, our team is dedicated to creating high-quality bots that enhance the Discord experience for users across various communities.
+# Welcome to **CoffeeBots** ☕
+**CoffeeBots** is your go-to destination for top-quality Discord bots at unbeatable prices. Founded by **Ducko**, our company is committed to delivering innovative solutions that enhance the Discord experience for communities worldwide.
 
 ## Our Mission 🚀
-
-At **CoffeeBots**, our mission is to provide Discord users with innovative and reliable bots that cater to their specific needs. We strive to offer affordable solutions without compromising on quality, ensuring that our customers receive value for their investment.
+At **CoffeeBots**, we're on a mission to revolutionize your Discord experience with our cutting-edge bots. Our commitment is to provide high-quality solutions tailored to your community's needs, all at prices that won't break the bank.
 
 ## Meet the Team 👨‍💻
 
 ### DuckoDas 🦆
-
-**DuckoDas** is a passionate developer with a knack for creating efficient and user-friendly bots. With a background in programming and a deep understanding of Discord's API, DuckoDas is committed to delivering top-notch solutions that exceed expectations.
+Passionate about coding and Discord, **DuckoDas** leads our team with expertise in creating efficient and user-friendly bots. With a solid background in programming and a deep understanding of Discord's API, **DuckoDas** ensures that every bot exceeds your expectations.
 
 ### arkseek 🌟
+Meet **arkseek**, our rising star in web development! With a thirst for knowledge and a drive to excel, **arkseek** is dedicated to mastering the craft of bot development. As a promising teenage developer, **arkseek** brings fresh perspectives and innovative ideas to the table.
 
-**arkseek** is a beginner developer in the web space! He is a programmer of which does works on the web and is starting to learn little by little on how everything works together, he is commited to become one of the best teenage web developers out there. 
-
-### The Gamer :video_game: 
-
-**The Gamer** is a pasionate developer with a passion for lua, and the FiveM world. With a background of coding bots, and working with FiveM scripts, he's build a pretty big knowledge, about the coding world, and it's doos and don'ts
+### The Gamer 🎮
+**The Gamer** is our Lua expert, specializing in FiveM scripts and bot development. With a wealth of experience in coding and a passion for gaming, **The Gamer** adds a unique flair to our team, ensuring that our bots are not only functional but also tailored to the gaming community.
 
 ## Our Bots 🤖
+Explore the bots crafted by **CoffeeBots:**
 
-Check out some of the bots developed by CoffeeBots:
+1. **Good Vibes Only (GVO):** GVO is an open-source Discord bot packed with features to elevate your server's experience. From customization options to moderation tools and server security, GVO has everything you need to create a thriving community.
+3. **FiveAlert.dk:** COMING SOON!
 
-1. **Good Vibes Only**: GVO is an open-source and versatile Discord bot designed to enhance your server with a variety of features, including customization, updates, moderation, server security, utility, and more.
-2. **FiveAlert.dk**: SOON
+# Links 🌐
+- [Website](https://coffeebots.xyz)
+- [Discord Server](https://coffeebots.xyz/discord)
+- [Store](https://coffeebots.xyz/store)
 
 ## Get in Touch 💬
+Got questions or interested in acquiring one of our bots? Reach out to us on Discord
 
-Have questions or interested in purchasing one of our bots? Feel free to reach out to us on Discord:
-
-- Ducko: [GitHub](https://github.com/duckodas)
-- arkseek: [GitHub](https://github.com/arkseek)
-
-We're always happy to chat and discuss how **CoffeeBots** can enhance your Discord server!
+[Join us](https://coffeebots.xyz/discord) for a chat, and let's explore how **CoffeeBots** can bring your Discord server to life!
